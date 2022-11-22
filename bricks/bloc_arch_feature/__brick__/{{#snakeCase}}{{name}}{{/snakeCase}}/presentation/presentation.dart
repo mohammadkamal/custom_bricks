@@ -1,1 +1,3 @@
-export '{{#snakeCase}}{{name}}_bloc{{/snakeCase}}.dart';
+export 'blocs/blocs.dart';
+
+export 'views/views.dart';
