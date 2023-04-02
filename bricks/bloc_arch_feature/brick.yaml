@@ -2,7 +2,7 @@ name: bloc_arch_feature
 
 description: Starter template that generates an opiniated clean folder strcuture for a feature
 
-version: 0.1.0+1
+version: 0.1.1+2
 
 vars:
   - name
